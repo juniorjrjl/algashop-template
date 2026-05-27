@@ -1,1 +1,0 @@
-# algashop-template
