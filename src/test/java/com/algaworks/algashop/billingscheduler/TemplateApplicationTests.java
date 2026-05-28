@@ -1,4 +1,4 @@
-package com.algaworks.algashop.template;
+package com.algaworks.algashop.billingscheduler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

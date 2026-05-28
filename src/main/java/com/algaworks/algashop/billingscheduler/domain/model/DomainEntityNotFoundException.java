@@ -1,4 +1,4 @@
-package com.algaworks.algashop.template.domain.model;
+package com.algaworks.algashop.billingscheduler.domain.model;
 
 public class DomainEntityNotFoundException extends RuntimeException{
 

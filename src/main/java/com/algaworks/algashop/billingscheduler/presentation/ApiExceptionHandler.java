@@ -1,8 +1,8 @@
-package com.algaworks.algashop.template.presentation;
+package com.algaworks.algashop.billingscheduler.presentation;
 
 
-import com.algaworks.algashop.template.domain.model.DomainEntityNotFoundException;
-import com.algaworks.algashop.template.domain.model.DomainException;
+import com.algaworks.algashop.billingscheduler.domain.model.DomainEntityNotFoundException;
+import com.algaworks.algashop.billingscheduler.domain.model.DomainException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.jspecify.annotations.Nullable;

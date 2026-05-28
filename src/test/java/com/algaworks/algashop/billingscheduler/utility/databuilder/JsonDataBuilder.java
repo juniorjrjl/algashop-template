@@ -1,4 +1,4 @@
-package com.algaworks.algashop.template.utility.databuilder;
+package com.algaworks.algashop.billingscheduler.utility.databuilder;
 
 
 import tools.jackson.databind.node.ObjectNode;

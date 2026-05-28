@@ -1,4 +1,4 @@
-package com.algaworks.algashop.template.utility;
+package com.algaworks.algashop.billingscheduler.utility;
 
 import lombok.extern.slf4j.Slf4j;
 import net.datafaker.Faker;

@@ -1,7 +1,7 @@
-package com.algaworks.algashop.template.utility.databuilder;
+package com.algaworks.algashop.billingscheduler.utility.databuilder;
 
 
-import com.algaworks.algashop.template.utility.CustomFaker;
+import com.algaworks.algashop.billingscheduler.utility.CustomFaker;
 
 import java.util.List;
 import java.util.stream.Stream;
