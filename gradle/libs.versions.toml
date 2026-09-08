@@ -1,6 +1,6 @@
 [versions]
 assertj = "3.27.7"
-datafaker = "2.5.4"
+datafaker = "2.7.0"
 lombok-mapstruct = "0.2.0"
 mapstruct = "1.6.3"
 springBoot = "4.1.0"
